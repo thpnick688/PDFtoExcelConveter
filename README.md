@@ -6,3 +6,5 @@ Files need to be converted must be insdier folder named as 'Manifests'. The Mani
 ![image](https://user-images.githubusercontent.com/47145936/134450486-de8dc637-01b9-41d3-a676-ac6674e1f272.png)
 
 The ImageOCR.py module is still under development. The current version allows simple text recognition without aligenment. 
+Use command "conda install -c conda-forge poppler" to install poppler package
+To install Tesseract on Windowns, go the the website"https://github.com/UB-Mannheim/tesseract/wiki"
