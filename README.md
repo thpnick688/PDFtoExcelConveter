@@ -5,4 +5,4 @@ To use this script. It is recommend to use command line "python main.py ." in Li
 Files need to be converted must be insdier folder named as 'Manifests'. The Manifests folder should be under the same directory as the python script
 ![image](https://user-images.githubusercontent.com/47145936/134450486-de8dc637-01b9-41d3-a676-ac6674e1f272.png)
 
-This current version doesn't support OCR nor scanned image. But OCR feature will be added soon. 
+The ImageOCR.py module is still under development. The current version allows simple text recognition without aligenment. 
